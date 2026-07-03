@@ -1,16 +1,17 @@
-## Hi there 👋
+# 강민석 (KangMinsuk)
 
-<!--
-**samsam0802/samsam0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+동작하는 코드보다 효율적인 코드를 고민하는 백엔드 개발자입니다.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Backend**: Java, Spring Boot, JPA, QueryDSL
+- **Database**: PostgreSQL, MySQL
+- **Frontend**: JavaScript, React
+- **Tools**: GitHub, IntelliJ IDEA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- [화장품 쇼핑몰 (MoonlightMoist Shop)](https://github.com/samsam0802/green-academy-final-shoppingmall-server)
+  - 장바구니, 주문/결제, 관리자 주문 내역 조회, 주문 상태 관리 기능 구현
+  - EXPLAIN ANALYZE로 복합 인덱스 적용, 조회 성능 약 11배 개선
+
+## 📫 Contact
+- Email: kmsk0802@gmail.com
